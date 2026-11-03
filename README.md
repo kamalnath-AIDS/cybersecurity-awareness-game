@@ -105,3 +105,5 @@ We all need support and motivation. `PhishGuard` is not an exception. If you fou
 <h3 align="center">
 A ⭐️ to <b>PhishGuard</b> is must as a motivation booster.
 </h3>
+# cybersecurity-awareness-game
+An interactive cybersecurity awareness game that teaches users to identify and avoid real-life cyber scams.
